@@ -1,0 +1,32 @@
+.header, .title{
+    font-size: xx-large;
+    background-color: burlywood;
+    color: brown;
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    background-color: brown;
+    color: burlywood;
+}
+
+body {
+    font-size: x-large;
+    background-color: beige;
+    text-align: center;
+    margin: 40px;
+
+}
+
+.box {
+    background-color: burlywood;
+    width: auto;
+    padding: 50px;
+    margin: auto;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
